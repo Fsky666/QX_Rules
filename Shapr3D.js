@@ -5,7 +5,8 @@ unlock Shapr:3D PRO(By LTribe)
 
 [rewrite_local]
 # unlock Shapr3D(By LTribe)
-^https?:\/\/prod\.api\.shapr3d\.com\/user-management\/profile-with-device url script-response-body Shapr3D.js
+# ^https?:\/\/prod\.api\.shapr3d\.com\/user-management\/profile-with-device url script-response-body Shapr3D.js  
+^https?:\/\/prod\.api\.shapr3d\.com\/user-management\/profile-with-device url script-response-body https://raw.githubusercontent.com/AndrewXiang/QX_Rules/main/Shapr3D.js
 
 [mitm]
 hostname = prod.api.shapr3d.com,
