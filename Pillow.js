@@ -1,4 +1,5 @@
-/*https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-body https://raw.githubusercontent.com/AndrewXiang/QuantumultX/master/Script/pillow.js
+/*https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-body https://github.com/AndrewXiang/QX_Rules/blob/main/Pillow.js
+
 hostname= api.revenuecat.com
 */
 
